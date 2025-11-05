@@ -2,7 +2,7 @@ name: resolvers
 
 on:
   schedule:
-    # Run every 1 hour
+    # Run everyday at 12AM IST
     - cron: '0 0 * * *'
   push:
     branches:
