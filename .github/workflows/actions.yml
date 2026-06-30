@@ -89,7 +89,7 @@ jobs:
               "https://raw.githubusercontent.com/carlospolop/Auto_Wordlists/main/wordlists/trusted_resolvers.txt"
               "https://raw.githubusercontent.com/BBerastegui/fresh-dns-servers/master/resolvers.txt"
               "https://raw.githubusercontent.com/zy9ard3/resolvers/master/resolvers.txt"
-              "https://raw.githubusercontent.com/avisscr/dns-servers/main/resolvers.txt"
+              
               "https://raw.githubusercontent.com/BonJarber/fresh-resolvers/refs/heads/main/resolvers.txt"
               "https://raw.githubusercontent.com/Baiqll/dns-resolvers/main/resolvers.txt"
               "https://raw.githubusercontent.com/the-valluvarsploit/Resolver/main/resolvers.txt"
